@@ -4,7 +4,7 @@
 <br/> My learning motto, "<span id="k"><i>"Strong intuitions come with strong applied knowledge."</i></span>
  sjkfhskjf -->
 Hello, my name is Vineeth. 😃<br>
-<img src = "profile.jpg" height="250px" width="200px">
+
 I am currently pursuing BTech Hons. in Computer Science and Engineering at Bennett University, Greater Noida.
 <hr>
 <p><b> ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Chapter Lead @ Script Foundation| Fellow @ IncubateIND | Mentor @ Garuda Hacks | Deep Learning Mentor @ Leadingindia.ai | Machine Learning Mentor @ GirlScript Technologies Pvt. Ltd. | AWS Machine Learning Scholar @ Udacity | Machine Learning Intern @ Internity Foundation[Best Machine Learning Intern Award] | President @ Computer Society of India, Student Chapter | Ascend Select Member @ Harvard Business Review | Community Manager @ Edudictive | Technical Content Writer @ Analytics Vidhya | ex-Intern @ TechnipFMC| ex Mentor and Judge at Def Hacks() 2020 | ex Organizer and Mentor @ Hack in India Hackathon | Mentor @ Hack Against Covid, codezoned and lot more ....</b></p>
